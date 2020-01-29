@@ -12,7 +12,7 @@
 
 ## Step 2. Add the dependency
 `dependencies {`
-	        `implementation 'com.github.KarimElshaweish:ArabsNumbres:Tag'`
+	        `implementation 'com.github.KarimElshaweish:ArabsNumbres:1.0'`
 	`}`
 
 ## Example to use it:
